@@ -1,0 +1,7 @@
+команды для терминала, для venv
+
+python -m venv myenv
+
+myenv\Scripts\activate
+
+pip install psycopg2

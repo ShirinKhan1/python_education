@@ -1,0 +1,8 @@
+команды для терминала, для venv
+
+python -m venv myenv
+
+myenv\Scripts\activate
+
+установка beautifulsoup (пишется в myenv)
+pip install requests beautifulsoup4
